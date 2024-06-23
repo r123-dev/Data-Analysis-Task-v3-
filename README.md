@@ -29,9 +29,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `yarn run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-![v1](https://github.com/r123-dev/visualtask/assets/85364100/520d48a6-b39f-42f8-ae4e-cd6063755f4b)
-![v2](https://github.com/r123-dev/visualtask/assets/85364100/ee04e78f-92ea-4358-8247-7db6ca223c15)
+### To run your project in local environment using yarn
+Type Yarn start
 
 
 
