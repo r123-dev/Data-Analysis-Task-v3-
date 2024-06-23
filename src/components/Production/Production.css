@@ -1,0 +1,27 @@
+/* src/App.css */
+
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  table {
+    width: 70%; /* Adjust width as needed */
+    border-collapse: collapse;
+    margin: 20px auto; /* Center the table horizontally */
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+  
+  td {
+    text-align: center;
+  }
+  
